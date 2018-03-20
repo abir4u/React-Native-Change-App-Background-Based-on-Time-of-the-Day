@@ -2,7 +2,7 @@
 <b>This project targets to:</b>
 1. set background image for different screens of app
 2. to change it dynamically based on the time of the day
-
+<br />
 <b>About the App:</b><br /><br />
 The app has two pages:
 1. The Login Page
@@ -50,3 +50,5 @@ So if you click on "Access" button from Login page, even without putting a usern
 <p align="center">
   <img src="https://github.com/abir4u/React-Native-Change-App-Background-Based-on-Time-of-the-Day/blob/master/Page%20Design/SecuredNight.png" width="350"/>
 </p>
+<br />
+<h3>HAVE FUN AND HOPE THIS HELPS!!! :)</h3>
