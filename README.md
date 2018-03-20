@@ -8,9 +8,9 @@ The app has two pages:
 1. The Login Page
 2. A Welcome Page<br />
 No Authentication has been applied on Login page as the app is developed to play with the background image only.
-So if you click on "Access" button from Login page, even without putting a username and password, you will navigate to Welcome page.
+So if you click on "Access" button from Login page, even without putting a username and password, you will navigate to Welcome page.<br />
 
-<b>How to Get This Running On Your Machine</b><br /><br />
+<b>How to Get This Running On Your Machine</b>
 <ul>
   <li>Open Terminal/Command Prompt/Git Bash</li>
   <li>Execute "cd <\address of your target location for the repository>\"</li>
@@ -18,7 +18,7 @@ So if you click on "Access" button from Login page, even without putting a usern
   <li>Download the content of this github repository into the "changeBackground" project folder</li>
   <li>Build the project on your real/virtual device</li>
 </ul>
-Note: The app should work on any iOS and Android device
+<br />Note: The app should work on any iOS and Android device<br />
 
 <b>How to Test the App:</b>
 <ul>
