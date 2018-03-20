@@ -19,7 +19,7 @@ export default StyleSheet.create({
   },
   loginTextField: {
     color: "#000000",
-    backgroundColor: "#FFFFFF",
+    backgroundColor: Constants.commonColorWhite,
     fontSize: 16,
     lineHeight: 21,
     height: 35,
@@ -29,19 +29,19 @@ export default StyleSheet.create({
   loginHeader: {
     fontSize: 33,
     textAlign: "center",
-    color: "white",
+    color: Constants.commonColorWhite,
     padding: 30,
     textShadowColor: "rgba(0, 0, 0, 1)",
     textShadowOffset: { width: -1, height: 1 },
     textShadowRadius: 10
   },
   loginButton: {
-    backgroundColor: "#0033CCAA",
+    backgroundColor: Constants.buttonBackgroundColor,
     padding: 15,
     borderRadius: 3
   },
   loginButtonText: {
-    color: "#FFFFFF",
+    color: Constants.commonColorWhite,
     textAlign: "center",
     fontWeight: "bold"
   }
