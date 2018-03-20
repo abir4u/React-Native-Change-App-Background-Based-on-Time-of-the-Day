@@ -3,7 +3,7 @@
 1. set background image for different screens of app
 2. to change it dynamically based on the time of the day
 
-<b>About the App:</b>
+<b>About the App:</b><br />
 The app has two pages:
 1. The Login Page
 2. A Welcome Page<br />
