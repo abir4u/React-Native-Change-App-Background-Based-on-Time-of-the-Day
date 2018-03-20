@@ -12,16 +12,16 @@ export default StyleSheet.create({
   },
   securedHeaderText: {
     fontSize: 27,
-    color: "#FFFFFF",
+    color: Constants.commonColorWhite,
     textAlign: "center"
   },
   logoutButton: {
-    backgroundColor: "#0033CCAA",
+    backgroundColor: Constants.buttonBackgroundColor,
     padding: 15,
     borderRadius: 3
   },
   logoutButtonText: {
-    color: "#FFFFFF",
+    color: Constants.commonColorWhite,
     textAlign: "center",
     fontWeight: "bold"
   },
