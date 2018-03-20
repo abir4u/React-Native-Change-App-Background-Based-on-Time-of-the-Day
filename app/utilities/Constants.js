@@ -5,8 +5,10 @@ const Constants = {
   passwordText: "Password",
   passwordPlaceholder: "Your Access Code",
   accessButtonUnderlayColor: "#003388",
+  buttonBackgroundColor: "#0033CCAA",
+  commonColorWhite: "#FFFFFF",
   accessButtonText: "Access",
-  securedHeader: "Welcome",
+  securedHeader: "Welcome to Auckland",
   securedLogout: "Logout",
   backgroundLookLogin: "Login",
   backgroundLookSecured: "Secured"
