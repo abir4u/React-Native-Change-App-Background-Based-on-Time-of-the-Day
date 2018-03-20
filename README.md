@@ -13,7 +13,7 @@ So if you click on "Access" button from Login page, even without putting a usern
 <b>How to Get This Running On Your Machine</b>
 <ul>
   <li>Open Terminal/Command Prompt/Git Bash</li>
-  <li>Execute "cd <<address of your target location for the repository>>"</li>
+  <li>Execute "cd <\address of your target location for the repository>\"</li>
   <li>Execute "react-native init changeBackground</li>
   <li>Download the content of this github repository into the "changeBackground" project folder</li>
   <li>Build the project on your real/virtual device</li>
