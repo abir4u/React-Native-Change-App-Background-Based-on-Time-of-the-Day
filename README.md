@@ -13,4 +13,6 @@ So if you click on "Access" button from Login page, even without putting a usern
 How to Test the App:
 Load the App. You should land on the Login page.
 Considering that it is Daytime at your place (say 10:00 AM). Below is how the app will look:
-![alt text](https://github.com/abir4u/React-Native-Change-App-Background-Based-on-Time-of-the-Day/blob/master/Page%20Design/LoginDay.png)
+<p align="center">
+  <img src="https://github.com/abir4u/React-Native-Change-App-Background-Based-on-Time-of-the-Day/blob/master/Page%20Design/LoginDay.png" width="350"/>
+</p>
