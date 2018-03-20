@@ -3,12 +3,22 @@
 1. set background image for different screens of app
 2. to change it dynamically based on the time of the day
 
-<b>About the App:</b><br />
+<b>About the App:</b><br /><br />
 The app has two pages:
 1. The Login Page
 2. A Welcome Page<br />
 No Authentication has been applied on Login page as the app is developed to play with the background image only.
 So if you click on "Access" button from Login page, even without putting a username and password, you will navigate to Welcome page.
+
+<b>How to Get This Running On Your Machine</b><br /><br />
+<ul>
+  <li>Open Terminal/Command Prompt/Git Bash</li>
+  <li>Execute "cd <\address of your target location for the repository>\"</li>
+  <li>Execute "react-native init changeBackground</li>
+  <li>Download the content of this github repository into the "changeBackground" project folder</li>
+  <li>Build the project on your real/virtual device</li>
+</ul>
+Note: The app should work on any iOS and Android device
 
 <b>How to Test the App:</b>
 <ul>
@@ -36,6 +46,7 @@ So if you click on "Access" button from Login page, even without putting a usern
 <ul>
   <li>Notice how the same Login page looks different for different time of the day</li>
   <li>Now click on "Login" button again to navigate to Welcome page. Below is how the app will look:</li>
+</ul>
 <p align="center">
   <img src="https://github.com/abir4u/React-Native-Change-App-Background-Based-on-Time-of-the-Day/blob/master/Page%20Design/SecuredNight.png" width="350"/>
 </p>
