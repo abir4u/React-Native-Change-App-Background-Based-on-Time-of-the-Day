@@ -1,5 +1,5 @@
 # React-Native-Change-App-Background-Based-on-Time-of-the-Day
-<b>This project targets to:</b>
+<b>This project aims to:</b>
 1. set background image for different screens of app
 2. to change it dynamically based on the time of the day
 <br />
@@ -13,7 +13,7 @@ So if you click on "Access" button from Login page, even without putting a usern
 <b>How to Get This Running On Your Machine</b>
 <ul>
   <li>Open Terminal/Command Prompt/Git Bash</li>
-  <li>Execute "cd <\address of your target location for the repository>\"</li>
+  <li>Execute "cd <address of your target location for the repository>"</li>
   <li>Execute "react-native init changeBackground</li>
   <li>Download the content of this github repository into the "changeBackground" project folder</li>
   <li>Build the project on your real/virtual device</li>
