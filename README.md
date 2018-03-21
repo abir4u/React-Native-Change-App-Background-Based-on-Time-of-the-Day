@@ -1,12 +1,16 @@
 # React-Native-Change-App-Background-Based-on-Time-of-the-Day
 <b>This project aims to:</b>
-1. set background image for different screens of app
-2. to change it dynamically based on the time of the day
+<ol>
+  <li>set background image for different screens of app</li>
+  <li>to change it dynamically based on the time of the day</li>
+</ol>
 <br />
 <b>About the App:</b><br /><br />
 The app has two pages:
-1. The Login Page
-2. A Welcome Page<br />
+<ol>
+  <li>The Login Page</li>
+  <li>A Welcome Page</li>
+</ol>
 No Authentication has been applied on Login page as the app is developed to play with the background image only.
 So if you click on "Access" button from Login page, even without putting a username and password, you will navigate to Welcome page.<br />
 
